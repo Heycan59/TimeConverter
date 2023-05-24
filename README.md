@@ -1,7 +1,6 @@
 # TimeConverter
-# CommonlyTools
 
 ----------
 
-How to use CommonlyTools?
->```pip install CommonlyTools```
+如何使用 TimeConverter?
+>```pip install TimeConverter```
